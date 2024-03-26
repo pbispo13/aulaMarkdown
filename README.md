@@ -32,3 +32,11 @@ Entrevistas e Questionários: Os engenheiros de requisitos frequentemente conduz
 ![engenharia de requisitos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1zRMmoYguogu39RvJzMdBnJezC0c_GwcMGdFlFXjAg&s)
 
 Aspecto| uso tradicional| use case
+
+Exemplo   | Valor do exemplo
+--------- | ------
+Nome do Caso de Uso | Realizar uma Compra Online
+Descrição| Realizar uma Compra Online
+Ator Principal| Cliente
+Pré-condições | O cliente está autenticado e tem uma forma de pagamento válida.
+![image](https://github.com/pbispo13/aulaMarkdown/assets/164562356/499a5c24-d12a-4807-98b6-c107b2c01b37)
